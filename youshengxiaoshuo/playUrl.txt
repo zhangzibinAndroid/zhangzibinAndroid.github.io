@@ -1,0 +1,31 @@
+﻿{
+    "status": 1,
+    "msg": "success",
+    "data": [
+        {
+            "id": 1,
+            "title": "第一集",
+            "playUrl": "D8/wKgJWFjKS4TjzsjHAJPJDEyv8js267.m4a"
+        },
+		 {
+            "id": 2,
+            "title": "第二集",
+            "playUrl": "D9/wKgJWFjKS46AtRSfAKbypH2FKsY751.m4a"
+        },
+		 {
+            "id": 3,
+            "title": "第三集",
+            "playUrl": "DA/wKgJRljKS5vgs1EXAKSmg7wUhN4640.m4a"
+        },
+		{
+            "id": 4,
+            "title": "第四集",
+            "playUrl": "D9/wKgJRljKS5jBmN6nAKXqxEEm9T4997.m4a"
+        },
+		{
+            "id": 5,
+            "title": "第五集",
+            "playUrl": "DA/wKgJWFjKS5fykrTIAKRG7UM_8I4676.m4a"
+        }
+    ]
+}
